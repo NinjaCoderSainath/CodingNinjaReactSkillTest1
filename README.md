@@ -20,28 +20,10 @@ The `Dropdown` component accepts a single prop:
 
 - `items` (Array): An array of items to display in the dropdown list.
 
-### Example Usage
 
-```javascript
-import React from 'react';
-import Dropdown from './Dropdown';
 
-const options = ['Option 1', 'Option 2', 'Option 3'];
-
-function App() {
-  return (
-    <div className="App">
-      <h1>Simple Dropdown Example</h1>
-      <Dropdown items={options} />
-    </div>
-  );
-}
-
-export default App;
-
-```
 ### AUTHOR
-# Sainath Vyavhare
+ Sainath Vyavhare
 
 
 
